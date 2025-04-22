@@ -62,7 +62,7 @@ forecasting_bluesky/
 ```
 
 ## References
-- [See bibliography & references](https://)
+- [See bibliography & references](https://github.com/caminodepablos/forecasting_bluesky/blob/main/references.md)
 
 ## Contributing
 
