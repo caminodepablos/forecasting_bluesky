@@ -1,0 +1,40 @@
+date,year,month,day,headline,subject
+2025-01-17,2025,1,2025,"Bluesky 2024 Moderation Report Throughout 2024, our Trust & Safety team has worked to protect our growing userbase and uphold our community standards.",bluesky
+2024-12-30,2024,12,2024,2024 In Review It’s been a big year for Bluesky! Let's take a look back at everything that’s happened in the past year.,bluesky
+2024-12-03,2024,12,2024,"Altmetric Is Now Tracking Bluesky Mentions! Now, scientists and researchers can more easily track conversation around their research.",bluesky
+2024-11-29,2024,11,2024,The Engagement Is Better on Bluesky Bluesky is the lobby to the open web. Find and build your community here.,bluesky
+2024-10-24,2024,10,2024,"Bluesky Announces Series A to Grow Network of 13M+ Users Bluesky now exceeds 13 million users, the AT Protocol developer ecosystem continues to grow, and we’ve shipped highly requested features like direct messages and video.",bluesky
+2024-09-18,2024,9,2024,"Bluesky’s Current Efforts on Trust and Safety This is a big quarter for Trust and Safety at Bluesky, as we work on a large number of improvements. Here’s a preview of everything that is in progress.",bluesky
+2024-09-11,2024,9,2024,Share video on Bluesky! Bluesky now has video!,bluesky
+2024-09-04,2024,9,2024,"Welcome to Bluesky! What a week! In the last few days, Bluesky has grown by more than 2.6 million users, over 85% of which are Brazilian. Welcome, we are so excited to have you here!",bluesky
+2024-08-28,2024,8,2024,"New Anti-Toxicity Features on Bluesky Trust and Safety (T&S) affects everything — from community policy and spam detection, all the way to the order that replies show up on a post. At Bluesky, the product team works hand-in-hand with T&S to design features...",bluesky
+2024-08-16,2024,8,2024,Highlighting Community Starter Packs Join a starter pack today!,bluesky
+2024-08-06,2024,8,2024,Bluesky Welcomes Mike Masnick to Board of Directors We’re thrilled to announce that Mike Masnick has joined Bluesky’s Board of Directors.,bluesky
+2024-07-30,2024,7,2024,"Schedule and Cross-Post with Buffer We're thrilled to announce that Bluesky has partnered with Buffer, a social media toolkit with scheduling and cross-posting features.",bluesky
+2024-06-26,2024,6,2024,Introducing Bluesky Starter Packs Create a starter pack today — personalized invites that bring friends directly into your slice of Bluesky.,bluesky
+2024-05-31,2024,5,2024,Tips and Tricks for Bluesky Search Let’s dive into all the tips and tricks for advanced Bluesky search!,bluesky
+2024-05-22,2024,5,2024,"Just shipped: Bluesky Direct Messages! You can now send direct messages (DMs) to people on Bluesky! Say hi to a friend, colleague, or a crush.",bluesky
+2024-05-07,2024,5,2024,"Product Roadmap What’s coming next? Over the next few months, we’ll be introducing some long-requested features.",bluesky
+2024-04-19,2024,4,2024,"How to embed a Bluesky post on your website or blog Share Bluesky posts on other sites, articles, newsletters, and more.",bluesky
+2024-03-12,2024,3,2024,"Bluesky’s Stackable Approach to Moderation Today, we’re open sourcing Ozone, a tool that lets a team of moderators or curators collaboratively review reports, create labels, and inspect content on the atproto network. Later this week, we’re opening up the...",bluesky
+2024-02-22,2024,2,2024,Bluesky: An Open Social Web We’re excited to announce that the Bluesky network is federating and opening up in a way that allows you to host your own data.,bluesky
+2024-02-06,2024,2,2024,"Join Bluesky Today (Bye, Invites!) Sign up for Bluesky! No invite code required.",bluesky
+2024-01-16,2024,1,2024,"Bluesky 2023 Moderation Report We have hired and trained a full-time team of moderators, launched and iterated on several community and individual moderation features, developed and refined policies both public and internal, designed and redesigned...",bluesky
+2023-12-21,2023,12,2023,A New Look for Bluesky: The Social Butterfly A new look for Bluesky — the social butterfly — and a public web interface.,bluesky
+2023-11-16,2023,11,2023,"Toward Federation and an Open Network One year ago, the first post on Bluesky was created. Now, we're working toward federation and a truly open network.",bluesky
+2023-10-13,2023,10,2023,Bluesky for Journalists Journalists and news organizations can self-verify by setting their website directly as their username.,bluesky
+2023-09-12,2023,9,2023,"Reaching 1 Million Users Today, we reached over one million users on Bluesky.",bluesky
+2023-07-27,2023,7,2023,Algorithmic Choice with Custom Feeds Our implementation of algorithmic choice lets users customize one of the most important parts of their social media experience: their feed.,bluesky
+2023-07-05,2023,7,2023,"Our Plan for a Sustainably Open Social Network We've been exploring avenues of monetization other than traditional advertising, and have raised a seed round to support our mission and growth.",bluesky
+2023-07-05,2023,7,2023,Purchase and Manage Domains Directly Through Bluesky We’re excited to announce a new feature that allows users to seamlessly purchase and manage domains directly through Bluesky.,bluesky
+2023-06-23,2023,6,2023,"Moderation in a Public Commons In this post, we share why we believe a public commons is important for social media, as well as some proposals for moderation and safety tooling.",bluesky
+2023-06-13,2023,6,2023,"What is Bluesky? On Bluesky, users own their data, developers will never get locked out of the ecosystems they help build, and creators own their relationships with their audience.",bluesky
+2023-06-02,2023,6,2023,"Private Beta Update & Roadmap Our priorities continue to be a focus on moderation and curation to ensure a safe and pleasant environment for users, and protocol work to launch federation.",bluesky
+2023-05-19,2023,5,2023,Bluesky User FAQ Welcome to the Bluesky app! This is a user guide that answers some common questions.,bluesky
+2023-05-05,2023,5,2023,"Federation Architecture Overview Soon, we’re launching a sandbox environment for federation. In advance, we want to share some technical details about our design decisions.",bluesky
+2023-04-28,2023,4,2023,How to verify your Bluesky account Here's how to verify your Bluesky account by setting your website as your username.,bluesky
+2023-04-21,2023,4,2023,"The AT Protocol Developer Ecosystem The AT Protocol's developer ecosystem is growing rapidly. Today we’re shipping app passwords, a short-term solution for authentication that will let users experiment with new clients without having to fully trust them.",bluesky
+2023-04-13,2023,4,2023,"Composable Moderation A customizable, composable approach to moderation that prioritizes safety and gives users and developers more control.",bluesky
+2023-03-30,2023,3,2023,Algorithmic choice Your attention is an invaluable resource. We want a future where you control what you see on social media.,bluesky
+2023-03-06,2023,3,2023,Domain Names as Handles in Bluesky Today we got our first custom domain name handle registered on Bluesky. Domain name handles are a way for us to improve the state of trust and control users have over their social identities online.,bluesky
+2023-03-02,2023,3,2023,"Bluesky Private Beta Update We’ve started inviting people from our waitlist to test out a beta app. This app will be a reference client for the AT Protocol, and a landing place for users to enter the ecosystem.",bluesky
