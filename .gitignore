@@ -172,3 +172,16 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+.env
+
+# Sistema operativo
+.DS_Store
+
+# Streamlit secrets
+.streamlit/secrets.toml
