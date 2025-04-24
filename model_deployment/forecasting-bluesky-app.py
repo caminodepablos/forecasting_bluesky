@@ -17,12 +17,12 @@ st.set_page_config(page_title='FORECASTING BLUESKY',
 
 pages = {
     "About this project": [
-        st.Page("page1.py", title="Forecasting Bluesky"),
-        st.Page("page2.py", title="Bluesky"),
-        st.Page("page3.py", title="About Me")
+        st.Page("about-this-project.py", title="Forecasting Bluesky"),
+        st.Page("about-bluesky.py", title="Bluesky"),
+        st.Page("about-me.py", title="About Me")
     ],
     "Predict": [
-        st.Page("page5.py", title="Tomorrow Predictions")
+        st.Page("predict-tomorrow.py", title="Predict Tomorrow")
     ],
 }
 
