@@ -179,8 +179,8 @@ st.divider()
 col1, col2, col3 = st.columns(3)
 col1.metric("Nuevos usuarios", f"{round(num_data['new_users'].iloc[-1])}", f"{round(num_data['new_users'].iloc[-1] - num_data['new_users'].iloc[-2])}")
 col2.metric("Activity Score PCA", f"{round(num_data['activity_score_pca'].iloc[-1],2)}", f"{round(num_data['activity_score_pca'].iloc[-1] - num_data['activity_score_pca'].iloc[-2], 2)}")
-col3.metric("Impact Score", f"{round(page4.pred_score)}", f"{page4.pred_score - round(num_data['impact_score'].iloc[-1], 2)}")
-#col3.metric("Impact Score", f"{round(num_data['impact_score'].iloc[-1],2)}", f"{round(num_data['impact_score'].iloc[-1] - num_data['impact_score'].iloc[-2], 2)}")
+#col3.metric("Impact Score", f"{round(page4.pred_score)}", f"{page4.pred_score - round(num_data['impact_score'].iloc[-1], 2)}")
+col3.metric("Impact Score", f"{round(num_data['impact_score'].iloc[-1],2)}", f"{round(num_data['impact_score'].iloc[-1] - num_data['impact_score'].iloc[-2], 2)}")
 
 
 # -------------------------------------------------------
