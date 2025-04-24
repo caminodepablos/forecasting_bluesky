@@ -12,3 +12,4 @@ spacy
 xgboost
 tensorflow
 tf-keras
+torch
