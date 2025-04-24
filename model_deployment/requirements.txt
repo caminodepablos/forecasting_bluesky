@@ -11,3 +11,4 @@ transformers
 spacy
 xgboost
 tensorflow
+tf-keras
