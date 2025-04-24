@@ -20,6 +20,10 @@ There is a correlation between political and social changes and the increase of 
 - Prediction of the increase of daily users in the social network.
 - Prediction of the impact of political and social news on the growth of the social network.
 
+### Model Deployment
+Check out -> (Bluesky Forecasting App)[https://forecasting-bluesky.streamlit.app/]
+Built with streamlit.io
+
 ## About this repository
 
 ```
