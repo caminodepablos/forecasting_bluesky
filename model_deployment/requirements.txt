@@ -4,7 +4,6 @@ pandas
 numpy
 joblib
 plotly
-re
 matplotlib
 seaborn
 ipython
