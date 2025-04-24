@@ -56,7 +56,9 @@ forecasting_bluesky/
 │       └── impact_score_xgbclass_model.pkl
 │  
 ├── model_deployment/
-│   └── forecasting-bluesky-app.py
+│   ├── forecasting-bluesky-app.py
+│   ├── requirements.txt
+│   └── ...
 │
 ├── forecasting_bluesky_code/
 │   ├── __init__.py
