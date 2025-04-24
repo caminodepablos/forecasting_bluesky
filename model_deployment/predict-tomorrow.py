@@ -9,7 +9,7 @@ from sklearn.decomposition import PCA
 # PAGE SETUP
 # -------------------------------------------------------
 
-st.title(':gray[TOMORROW PREDICTIONS]')
+st.title(':gray[PREDICT TOMORROW USERS & ACTIVITY]')
 st.subheader(':gray[Predicción del número de nuevos usuarios y nivel de actividad que habrá mañana en Bluesky]')
 
 # -------------------------------------------------------
