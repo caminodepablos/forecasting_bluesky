@@ -22,6 +22,7 @@ There is a correlation between political and social changes and the increase of 
 
 ### Model Deployment
 Check out -> [Bluesky Forecasting App](https://forecasting-bluesky.streamlit.app/)
+
 Built with streamlit.io
 
 ## About this repository
