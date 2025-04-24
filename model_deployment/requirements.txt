@@ -9,3 +9,4 @@ seaborn
 ipython
 transformers
 spacy
+xgboost
