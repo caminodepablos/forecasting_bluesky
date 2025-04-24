@@ -49,6 +49,8 @@ Goodfeeds
 
 
 ## Tools & Libraries
+- **Project developed with Python**
+  
 - **ChatGPT**
 (https://chatgpt.com/)
 
@@ -60,3 +62,15 @@ Goodfeeds
 
 - **PyPI**
 (https://pypi.org/)
+
+- **Streamlit**
+(https://streamlit.io/)
+
+- **SpaCy**
+(https://spacy.io/)
+
+- **TensorFlow**
+(https://www.tensorflow.org/)
+
+- **Keras**
+(https://keras.io/)
