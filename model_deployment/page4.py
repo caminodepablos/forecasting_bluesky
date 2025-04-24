@@ -17,7 +17,7 @@ st.subheader(':gray[Predicción del impacto que tienen las noticias en el aument
 # MODELO Y DATASET
 # -------------------------------------------------------
 
-impact_score_model = joblib.load('impact_score_xgbclass_model.pkl')
+impact_score_model = joblib.load('model_deployment/impact_score_xgbclass_model.pkl')
 
 
 # -------------------------------------------------------
