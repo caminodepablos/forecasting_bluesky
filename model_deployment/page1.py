@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.express as px
-import os
 
 # -------------------------------------------------------
 # PAGE SETUP
@@ -13,15 +12,12 @@ st.subheader(':gray[Predicción del crecimiento de usuarios a través del análi
 
 st.subheader(':rainbow-background[:gray[Hipótesis: existe una correlación entre los cambios políticos y sociales y el aumento de usuarios en Bluesky.]]')
 
-st.write("Contenido del directorio actual:")
-st.write(os.listdir('.'))
-
 # -------------------------------------------------------
 # PLOTS
 # -------------------------------------------------------
 
 # Dataframe para los plots
-df = pd.read_csv('final_dataset_bsky_news.csv')
+df = pd.read_csv('model_deployment/final_dataset_bsky_news.csv')
 
 # Definición de los tabs
 tab1, tab2 = st.tabs(["New Users", "Activity"])
