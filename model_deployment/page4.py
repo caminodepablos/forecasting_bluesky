@@ -5,6 +5,8 @@ import pandas as pd
 import re
 import torch
 from impact_score import impact_score_pipeline
+import spacy
+spacy.cli.download("en_core_web_sm")
 
 
 # -------------------------------------------------------
@@ -79,7 +81,7 @@ with st.form("my_form"):
     politics = text_cleaning(politics)
     #protests = st.text_input("**Noticias sobre protests**")
     #protests = text_cleaning(protests)
-    science = st.text_input("**Noticias sobre **ciencia**")
+    science = st.text_input("Noticias sobre **ciencia**")
     science = text_cleaning(science)
     #sports = st.text_input("**Noticias sobre sports**")
     #sports = text_cleaning(sports)
