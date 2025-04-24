@@ -22,7 +22,6 @@ pages = {
         st.Page("page3.py", title="About Me")
     ],
     "Predict": [
-        st.Page("page4.py", title="News Impact on Activity"),
         st.Page("page5.py", title="Tomorrow Predictions")
     ],
 }
