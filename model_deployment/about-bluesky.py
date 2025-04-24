@@ -4,7 +4,7 @@ import streamlit as st
 # PAGE SETUP
 # -------------------------------------------------------
 
-st.title(':gray[BLUESKY]')
+st.title(':gray[ABOUT BLUESKY]')
 st.subheader(':gray[*Welcome to the social internet.*]')
 
 # Botones para visitar Bluesky
@@ -14,7 +14,7 @@ middle.link_button("Visit Bluesky About Web 🦋", "https://bsky.social/about", 
 
 st.divider()
 
-
+st.subheader(':gray[Explaining Bluesky... in a Comic]')
 # Comic
 st.image("https://bsky.social/about/welcome-to-bluesky-comic-davis-bickford/cover.jpg")
 st.image("https://bsky.social/about/welcome-to-bluesky-comic-davis-bickford/page-1.jpg")
