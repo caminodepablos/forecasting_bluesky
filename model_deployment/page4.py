@@ -3,6 +3,7 @@ import joblib
 import numpy as np
 import pandas as pd
 import re
+import torch
 from impact_score import impact_score_pipeline
 
 
