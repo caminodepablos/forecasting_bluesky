@@ -121,12 +121,12 @@ def categorize_quantile(df, var, quantile_num = [0.25, 0.5, 0.75]):
 # -------------------------------------------------------
 
 # Modelos
-modelo = joblib.load("linear_reg_bsky_weekly.pkl")
-logistic_class_model = joblib.load("logistic_reg_bsky_weekly.pkl")
+modelo = joblib.load("model_deployment/linear_reg_bsky_weekly.pkl")
+logistic_class_model = joblib.load("model_deployment/logistic_reg_bsky_weekly.pkl")
 
 # Dataset
-data = pd.read_csv('weekly_dataset_model_features_reg.csv')
-data_original = pd.read_csv('final_dataset_bsky_news.csv')
+data = pd.read_csv('model_deployment/weekly_dataset_model_features_reg.csv')
+data_original = pd.read_csv('model_deployment/final_dataset_bsky_news.csv')
 df_weekly = generate_weekly_df(data_original)
 num_data = df_weekly._get_numeric_data()
 
