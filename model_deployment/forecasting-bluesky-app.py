@@ -22,7 +22,8 @@ pages = {
         st.Page("about-me.py", title="About Me")
     ],
     "Predict": [
-        st.Page("predict-tomorrow.py", title="Predict Tomorrow")
+        st.Page("predict-tomorrow.py", title="Predict Tomorrow"),
+        st.Page("predict-next-week.py", title="Predict Next Week")
     ],
 }
 
