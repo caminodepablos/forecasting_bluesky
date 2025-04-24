@@ -17,12 +17,12 @@ st.subheader(':gray[Predicción del número de nuevos usuarios y nivel de activi
 # -------------------------------------------------------
 
 # Modelos
-modelo = joblib.load("linear_reg_bsky.pkl")
-logistic_class_model = joblib.load("logistic_reg_bsky.pkl")
+modelo = joblib.load("model_deployment/linear_reg_bsky.pkl")
+logistic_class_model = joblib.load(model_deployment/"logistic_reg_bsky.pkl")
 
 # Dataset
-data = pd.read_csv('daily_dataset_model_features_reg.csv')
-data_original = pd.read_csv('final_dataset_bsky_news.csv')
+data = pd.read_csv('model_deployment/daily_dataset_model_features_reg.csv')
+data_original = pd.read_csv('model_deployment/final_dataset_bsky_news.csv')
 num_data = data_original._get_numeric_data()
 
 # -------------------------------------------------------
