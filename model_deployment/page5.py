@@ -18,7 +18,7 @@ st.subheader(':gray[Predicción del número de nuevos usuarios y nivel de activi
 
 # Modelos
 modelo = joblib.load("model_deployment/linear_reg_bsky.pkl")
-logistic_class_model = joblib.load(model_deployment/"logistic_reg_bsky.pkl")
+logistic_class_model = joblib.load("model_deployment/logistic_reg_bsky.pkl")
 
 # Dataset
 data = pd.read_csv('model_deployment/daily_dataset_model_features_reg.csv')
